@@ -1,3 +1,6 @@
 Hi, I'm AW
 practicing git commands
 
+aw
+
+hi
